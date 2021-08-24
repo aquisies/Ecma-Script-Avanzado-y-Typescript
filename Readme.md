@@ -88,7 +88,7 @@ operaciones();
 
 Los constructores de las clases Suma y Resta recibe dos variables que se asignan a variables privadas
 
-````
+
 Suma.ts
 ```javascript
 Class Suma.ts
@@ -101,7 +101,6 @@ Operacion es un metodo que resta x+y
 ````
 
 Resta.ts
-
 ```javascript
 Class Resta.ts
 	declaracion de varibles privadas
