@@ -96,8 +96,7 @@ Class Suma.ts
  	constructor( x , y)
 	   asignacion de varibles privadas
 
-
-//Operacion es un metodo que resta x+y
+Operacion es un metodo que resta x+y
 
 ````
 
